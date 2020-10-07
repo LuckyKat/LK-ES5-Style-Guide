@@ -75,13 +75,12 @@
 
 ## Objects
 
-  - Use the literal syntax for object creation.
+  - Use the literal syntax for object creation or new Object()
 
     ```javascript
-    // bad
     var item = new Object();
 
-    // good
+    // literal syntac
     var item = {};
     ```
 
